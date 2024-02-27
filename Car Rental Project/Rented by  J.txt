@@ -1,0 +1,6 @@
+Name:  J
+Car rented is: Mercedes G-class
+Price per car: 4000
+Total number of cars you rented:  1
+Your total amount is : 4000.0 tenge
+Renting Date2024-02-28

@@ -1,0 +1,11 @@
+Audi RS6,                 5 ,  30000
+Mercedes S-class W223,         2 ,  50000
+Mercedes G-class,                 4 ,  39999
+BMW M5,         5 ,  35000
+Mclaren P1,         4 ,  60000
+Porsche 918 Spyder,                 3 ,  50000
+BMW M3,                         4 ,  45000
+Mitsubishi Lancer EVO X,         3 ,  20000
+Mazda RX7,                 2 ,  25000
+Nissan Skyline GTR R34, 4 ,  40000
+Toyota Supra Mk2,                 4 ,  35000

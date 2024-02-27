@@ -1,0 +1,6 @@
+Name:  Sanzhar
+Car rented is:  Audi RS6
+Price per car:  5000
+Total number of cars you rented:  1
+Your total amount is : 5000.0 tenge
+Renting Date2024-02-27
